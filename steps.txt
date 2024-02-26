@@ -1,0 +1,51 @@
+//TODO
+1-Setup of express server -DONE
+2-Mongodb connection -DONE
+
+
+3-Set the EJS to express view engine -DONE
+4-Register page-DONE
+5-Register API
+
+6-Login page-DONE
+7-login API
+
+8-Session based Auth
+
+9-Dashboard page(todo page)
+10-logout
+11-logout from all the devices
+
+12-TODO APIs
+13-create
+14-read
+15-edit
+16-delete
+
+17-Dashboard 
+18-Axios
+19-Create
+20-edit
+21-delete
+22-read component
+
+23-Pagination
+24-Rate limiting-debouncing
+
+25-JWT Email based authentication
+
+
+SETUP & INSTALLATION PROCESS
+1-npm init -y
+2-npm i express nodemon
+    changing the script to  "dev": "nodemon index.js"
+3-npm run dev
+4-npm install dotenv
+5-npm i mongoose  
+6-connect to MongoDb
+7-npm install ejs
+8-npm install cli-color
+9-body parser
+    app.use(express.urlencoded({ extended: true }));
+10-create authUtils
+11-npm i validator
